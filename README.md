@@ -1,6 +1,5 @@
 # Aris Tyler 
 for stepping stone 21
-fileConn <- file("README.md")
   "# Plant Growth Data ",
   "",
   "## Description",
