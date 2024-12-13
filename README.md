@@ -1,7 +1,6 @@
-# Awheezy
+# Aris Tyler 
 for stepping stone 21
 fileConn <- file("README.md")
-writeLines(c(
   "# Plant Growth Data ",
   "",
   "## Description",
@@ -16,6 +15,5 @@ writeLines(c(
   "- **Humidity:** Moisture level (%).",
   "",
   "## License",
-  "Please specify the license for using this dataset."(,fileConn)
-close(fileConn)
+  "Please specify the license for using this dataset."
 
