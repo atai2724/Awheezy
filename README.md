@@ -14,5 +14,5 @@ for stepping stone 21
   "- **Humidity:** Moisture level (%).",
   "",
   "## License",
-  "Please specify the license for using this dataset."
+  
 
